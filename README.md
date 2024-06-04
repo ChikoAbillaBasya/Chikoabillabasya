@@ -2,8 +2,7 @@
 
 <h3 align="center">Building the digital future from Harlem with passion and dedication</h3>
 
-
-<div align = "center" style = "width: 100%;">="https://media1.tenor.com/m/QXVs4QWLlzkAAAAC/spider-man.gif"> </div>
+<img align="center" alt="Coding" height ="https://media1.tenor.com/m/QXVs4QWLlzkAAAAC/spider-man.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
