@@ -1,15 +1,17 @@
 <h1 align="center">Hi, i'm Chiko Abilla Basya </h1>
 
 <h3 align="center">Building the digital future from Harlem with passion and dedication</h3>
+
 <img align="center" alt="Coding" height = "200" src="https://media1.tenor.com/m/QXVs4QWLlzkAAAAC/spider-man.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atabikm1&label=Profile%20views&color=0e75b6&style=flat" alt="atabikm1" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
 
+<div align = "center" style = "width: 100%;">
+  
+  ![](https://github.com/I4annet/I4annet/blob/main/asset/hi.gif)
+</div>
 
 
 
