@@ -6,13 +6,14 @@
 
 
 ### <b> Connect with me : </b>
-[![My Skills](https://skillicons.dev/icons?i=instagram,github&perline=3,https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn)](https://www.instagram.com/serenesketches_?igsh=NWZ5OGF6a2hzYnI5,https://github.com/Chikoabillabasya)
+[![My Skills](https://skillicons.dev/icons?i=instagram,github&perline=3n)](https://www.instagram.com/serenesketches_?igsh=NWZ5OGF6a2hzYnI5,https://github.com/Chikoabillabasya)
 
 ### Languange and tools :
-[![My Skills](https://skillicons.dev/icons?i=java,py,mysql,linux&theme=dark)](https://skillicons.dev)
-
-  
-.svg
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 
 
