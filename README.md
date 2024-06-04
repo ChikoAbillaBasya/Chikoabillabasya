@@ -1,6 +1,6 @@
 <h1 align="center">Hi, i'm Chiko Abilla Basya </h1>
 
-<h3 align="center">A Passionate ****** engineer from harlem</h3>
+<h3 align="center">Building the digital future from Harlem with passion and dedication</h3>
 <img align="center" alt="Coding" height = "200" src="https://media1.tenor.com/m/QXVs4QWLlzkAAAAC/spider-man.gif">
 
 
