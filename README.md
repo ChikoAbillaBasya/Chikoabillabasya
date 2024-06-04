@@ -4,9 +4,12 @@
 
 <img align="center" alt="Coding" height = "300" src="https://media1.tenor.com/m/QXVs4QWLlzkAAAAC/spider-man.gif">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 
+### <b> Connect with me : </b>
+[![My Skills](https://skillicons.dev/icons?i=instagram,github&perline=3)](https://www.instagram.com/serenesketches_?igsh=NWZ5OGF6a2hzYnI5)
+
+### Languange and tools :
+[![My Skills](https://skillicons.dev/icons?i=java,py,mysql,linux&theme=dark)](https://skillicons.dev)
 
   
 
