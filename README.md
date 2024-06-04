@@ -1,4 +1,4 @@
-<h1 align="center">Hi, i'm Chiko </h1>
+![image](https://github.com/Chikoabillabasya/Chikoabillabasya/assets/143988659/9c05e430-bbad-4e31-a1a2-b3fc678f3736)<h1 align="center">Hi, i'm Chiko </h1>
 
 <h3 align="center">Building the digital future from Harlem with passion and dedication</h3>
 
@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=instagram,github&perline=3)](https://www.instagram.com/serenesketches_?igsh=NWZ5OGF6a2hzYnI5,https://github.com/Chikoabillabasya)
 
 ### Languange and tools :
-[![My Skills](https://skillicons.dev/icons?i=java,py,mysql,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,mysql,linux&theme=dark,https://skillicons.dev/icons?i=all)](https://skillicons.dev)
 
   
 
