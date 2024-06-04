@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chiko</h1>
 <h3 align="center">Building the digital future from Harlem with passion and dedication</h3>
 
+<div align = "center" style = "width: 100%;">
+  
+  ![](https://c.tenor.com/QXVs4QWLlzkAAAAC/tenor.gif)
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chikoabillabasya&label=Profile%20views&color=0e75b6&style=flat" alt="chikoabillabasya" /> </p>
 
 - 🔭 I’m currently working on **State Polytechnic of Malang**
