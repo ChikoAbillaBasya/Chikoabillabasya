@@ -1,5 +1,5 @@
 ## Hi, i'm Chiko Abilla Basya
-<img align="center" alt="Coding" height = "200" src="https://github.com/Chikoabillabasya/Chikoabillabasya/blob/main/Tampilan%20Github/spider-man.gif"
+![](https://github.com/Chikoabillabasya/Chikoabillabasya/blob/main/Tampilan%20Github/spider-man.gif)
 <!--
 **Chikoabillabasya/Chikoabillabasya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img align="center" alt="Coding" height = "200" src=
