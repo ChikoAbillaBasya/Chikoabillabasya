@@ -1,8 +1,7 @@
-## Hi, i'm Chiko Abilla Basya
+## <h1 align="center">Hi, i'm Chiko Abilla Basya </h1>
 ![](https://github.com/Chikoabillabasya/Chikoabillabasya/blob/main/Tampilan%20Github/spider-man.gif)
-<h1 align="center">Hi, I'm Biki</h1>
 <h3 align="center">A Passionate ****** engineer from harlem</h3>
-<img align="center" alt="Coding" height = "200" src="https://gifdb.com/images/high/evil-laugh-joker-kxcv701j5pvatjqu.webp">
+<img align="center" alt="Coding" height = "200" src="[https://gifdb.com/images/high/evil-laugh-joker-kxcv701j5pvatjqu.webp](https://github.com/Chikoabillabasya/Chikoabillabasya/blob/main/Tampilan%20Github/spider-man.gif)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atabikm1&label=Profile%20views&color=0e75b6&style=flat" alt="atabikm1" /> </p>
