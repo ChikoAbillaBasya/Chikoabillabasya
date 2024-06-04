@@ -5,6 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/chkoabllya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chkoabllya_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chiko abilla basya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chiko abilla basya" height="30" width="40" /></a>
+<a href="https://fb.com/serenity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="serenity" height="30" width="40" /></a>
 <a href="https://instagram.com/serenesketches_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="serenesketches_" height="30" width="40" /></a>
 <a href="https://discord.gg/clovcly." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="clovcly." height="30" width="40" /></a>
 </p>
