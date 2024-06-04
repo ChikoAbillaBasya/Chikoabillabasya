@@ -1,4 +1,4 @@
-<h1 align="center">Hi, i'm Chiko Abilla Basya </h1>
+<h1 align="center">Hi, i'm Chiko </h1>
 
 <h3 align="center">Building the digital future from Harlem with passion and dedication</h3>
 
