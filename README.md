@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Chiiko and I'm a ..., from Indonesia</h2>
+<h2 align="center">Hi 👋! My name is Chiiko</h2>
 
 ###
 
