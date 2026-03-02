@@ -15,7 +15,7 @@
 - 🔭 Saat ini saya sedang fokus belajar dan membangun project web.
 - 🌱 Tertarik pada **Frontend**, **Backend**, dan **UI/UX**.
 - 💡 Suka eksplorasi teknologi baru dan open-source.
-- 📫 Hubungi saya: **emailkamu@example.com**
+- 📫 Hubungi saya: **2341720005@polinema.ac.id**
 
 ---
 
@@ -31,17 +31,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ChikoAbillaBasya&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChikoAbillaBasya&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -65,9 +54,6 @@
   </a>
   <a href="https://instagram.com/usernamekamu" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/usernamekamu" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
