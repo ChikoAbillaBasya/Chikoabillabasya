@@ -15,7 +15,7 @@
 - 🔭 Saat ini saya sedang fokus belajar dan membangun project web.
 - 🌱 Tertarik pada **Frontend**, **Backend**, dan **UI/UX**.
 - 💡 Suka eksplorasi teknologi baru dan open-source.
-- 📫 Hubungi saya: **2341720005@polinema.ac.id**
+- 📫 Hubungi saya: **2341720005@student.polinema.ac.id**
 
 ---
 
@@ -49,10 +49,10 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/usernamekamu" target="_blank">
+  <a href="https://linkedin.com/in/chiko-abilla-basya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/usernamekamu" target="_blank">
+  <a href="https://instagram.com/chkoabllya_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
